@@ -6,5 +6,5 @@ ________________________________________________________________________________
 <p>• Css</p>
 <p>• Responsividade</p>
 _________________________________________________________________________________________
-<p> Para visualizar o exercício clique aqui: </p>
-<a href="https://pinheirops.github.io/Html-Css-Android/">Exercício</a>
+<p><a href="https://pinheirops.github.io/Html-Css-Android/">Para visualizar o exercício clique aqui</a></p>
+
