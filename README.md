@@ -1,10 +1,14 @@
 # Android Website
 
-<p>Página criada seguindo a orientação do Curso em Video.</p>
-_________________________________________________________________________________________
-<p>• Html</p>
-<p>• Css</p>
-<p>• Responsividade</p>
-_________________________________________________________________________________________
+<h2>Página criada seguindo a orientação do Curso em Video.</h2>
+
+<hr>
+
+<li>Html</li>
+<li>Css</li>
+<li>Responsividade</li>
+
+<hr>
+
 <p><a href="https://pinheirops.github.io/Html-Css-Android/">Para visualizar o exercício clique aqui</a></p>
 
